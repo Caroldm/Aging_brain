@@ -1,0 +1,168 @@
+"id","name","value","gene_signature_fk"
+18735,"cell","Temporal cortex",13939
+18736,"perturbation","Age - Female",13939
+18738,"cell","Hippocampus",13940
+18739,"perturbation","Age",13940
+18740,"user_key","null",13940
+18744,"cell","Temporal cortex",13942
+18745,"perturbation","Age",13942
+18746,"disease","male",13942
+18747,"user_key","null",13942
+18915,"cell","Hippocampus",13993
+18916,"disease","4 months X 24 months",13993
+18917,"user_key","null",13993
+18921,"cell","Neocortex",13995
+18922,"disease","5 months X 30 months",13995
+18923,"user_key","null",13995
+18924,"cell","Cerebellum",13996
+18925,"disease","4 months x 10 months",13996
+18926,"user_key","null",13996
+18927,"cell","Hippocampus",13997
+18928,"disease","10 weeks X 20 weeks",13997
+18929,"user_key","null",13997
+18931,"cell","Brain",13999
+18932,"disease","18 weeks X 27 Weeks",13999
+18933,"user_key","null",13999
+18934,"cell","Hippocampus",14000
+18935,"disease","Aged unimpaired hippocampus",14000
+18936,"user_key","null",14000
+18937,"cell","Hippocampus",14001
+18938,"disease","Aged unimpaired",14001
+18939,"user_key","null",14001
+46458,"cell","Frontal Cortex",22368
+46459,"disease","young vs old - Male",22368
+46460,"user_key","efb16f202290e941ec34786d410bb3b2",22368
+46461,"cell","Frontal Cortex",22369
+46462,"disease","young vs old - Female",22369
+46463,"user_key","efb16f202290e941ec34786d410bb3b2",22369
+46464,"cell","Hippocampus",22370
+46465,"perturbation","Aging",22370
+46466,"user_key","efb16f202290e941ec34786d410bb3b2",22370
+46467,"cell","Parietal cortex",22371
+46468,"perturbation","Aging",22371
+46469,"user_key","efb16f202290e941ec34786d410bb3b2",22371
+46470,"cell","Hypothalamus",22372
+46471,"perturbation","Aging",22372
+46472,"user_key","efb16f202290e941ec34786d410bb3b2",22372
+46473,"cell","Hippocampus",22373
+46474,"perturbation","Aging",22373
+46475,"user_key","efb16f202290e941ec34786d410bb3b2",22373
+46476,"cell","Hippocampus",22374
+46477,"perturbation","Accelerated Aging",22374
+46478,"user_key","efb16f202290e941ec34786d410bb3b2",22374
+46479,"cell","Hippocampus",22375
+46480,"user_key","efb16f202290e941ec34786d410bb3b2",22375
+46481,"cell","Brain",22376
+46482,"perturbation","Aging",22376
+46483,"user_key","efb16f202290e941ec34786d410bb3b2",22376
+46484,"cell","Cerebellum",22377
+46485,"perturbation","Aging",22377
+46486,"user_key","efb16f202290e941ec34786d410bb3b2",22377
+46487,"cell","Hippocampus",22378
+46488,"perturbation","Aging",22378
+46489,"user_key","efb16f202290e941ec34786d410bb3b2",22378
+46490,"cell","Striatum",22379
+46491,"perturbation","Aging",22379
+46492,"user_key","efb16f202290e941ec34786d410bb3b2",22379
+46493,"cell","Hippocampus",22380
+46494,"perturbation","obs: DG specific dissections",22380
+46495,"user_key","efb16f202290e941ec34786d410bb3b2",22380
+46496,"cell","Hippocampus",22381
+46497,"perturbation","obs: CA1 specific dissections",22381
+46498,"user_key","efb16f202290e941ec34786d410bb3b2",22381
+46499,"cell","Substantia nigra",22382
+46500,"disease","2 months vs 18 months",22382
+46501,"user_key","efb16f202290e941ec34786d410bb3b2",22382
+46502,"cell","Hippocampus",22383
+46503,"user_key","efb16f202290e941ec34786d410bb3b2",22383
+46504,"cell","Substantia nigra",22384
+46505,"disease","2 months vs 10 months",22384
+46506,"user_key","efb16f202290e941ec34786d410bb3b2",22384
+46507,"cell","Hippocampus",22385
+46508,"perturbation","Aging",22385
+46509,"disease","Sedentary adult vs sedentary old",22385
+46510,"user_key","efb16f202290e941ec34786d410bb3b2",22385
+46511,"cell","Ventral tegmental area",22386
+46512,"disease","2 months vs 10 months",22386
+46513,"user_key","efb16f202290e941ec34786d410bb3b2",22386
+46514,"cell","Ventral tegmental area",22387
+46515,"disease","2 months vs 18 months",22387
+46516,"user_key","efb16f202290e941ec34786d410bb3b2",22387
+46517,"cell","Parietal cortex",22388
+46518,"user_key","efb16f202290e941ec34786d410bb3b2",22388
+46519,"cell","Brain",22389
+46520,"perturbation","Aging",22389
+46521,"user_key","efb16f202290e941ec34786d410bb3b2",22389
+46522,"cell","Hippocampus",22390
+46523,"perturbation","Aging",22390
+46524,"user_key","efb16f202290e941ec34786d410bb3b2",22390
+46525,"cell","Hippocampus",22391
+46526,"perturbation","Aging",22391
+46527,"user_key","efb16f202290e941ec34786d410bb3b2",22391
+46528,"cell","Brain",22392
+46529,"perturbation","Aging",22392
+46530,"user_key","efb16f202290e941ec34786d410bb3b2",22392
+46531,"cell","Entorhinal cortex",22393
+46532,"perturbation","Aging",22393
+46533,"user_key","efb16f202290e941ec34786d410bb3b2",22393
+46534,"cell","Hippocampus",22394
+46535,"user_key","efb16f202290e941ec34786d410bb3b2",22394
+46536,"cell","Hippocampus",22395
+46537,"perturbation","Aging",22395
+46538,"user_key","efb16f202290e941ec34786d410bb3b2",22395
+46539,"cell","Neocortex",22396
+46540,"perturbation","Aging",22396
+46541,"user_key","efb16f202290e941ec34786d410bb3b2",22396
+46542,"cell","Brain",22397
+46543,"perturbation","Aging",22397
+46544,"user_key","efb16f202290e941ec34786d410bb3b2",22397
+46545,"cell","Hippocampus ",22398
+46546,"perturbation","Aging",22398
+46547,"disease","SAMR1 Hippocampus ",22398
+46548,"user_key","efb16f202290e941ec34786d410bb3b2",22398
+46549,"cell","Hippocampus",22399
+46550,"perturbation","Aging ",22399
+46551,"user_key","efb16f202290e941ec34786d410bb3b2",22399
+46552,"cell","Brain",22400
+46553,"perturbation","Aging",22400
+46554,"user_key","efb16f202290e941ec34786d410bb3b2",22400
+46555,"cell","Hippocampus ",22401
+46556,"perturbation","Aging",22401
+46557,"disease","Samp8 Hippocampus ",22401
+46558,"user_key","efb16f202290e941ec34786d410bb3b2",22401
+46559,"cell","Hippocampus ",22402
+46560,"perturbation","Aging",22402
+46561,"disease","Samp10 Hippocampus ",22402
+46562,"user_key","efb16f202290e941ec34786d410bb3b2",22402
+46691,"cell","Cortex",22439
+46692,"disease","female - 2 months vs 6 months",22439
+46693,"user_key","efb16f202290e941ec34786d410bb3b2",22439
+46694,"cell","Cerebellum",22440
+46695,"disease","male - 2 months vs 6 months",22440
+46696,"user_key","efb16f202290e941ec34786d410bb3b2",22440
+46697,"cell","Hippocampus",22441
+46698,"disease","female - 2 months vs 6 months",22441
+46700,"cell","Hippocampus",22442
+46701,"disease","male - 2 months vs 9 months",22442
+46702,"user_key","efb16f202290e941ec34786d410bb3b2",22442
+46703,"cell","Cortex",22443
+46704,"disease","Anterior prefrontal cortex (25 vs 91 years old - male)",22443
+46705,"user_key","efb16f202290e941ec34786d410bb3b2",22443
+46706,"cell","Cortex",22444
+46707,"disease","Superior temporal cortex (25 vs 91 years old - male)",22444
+46708,"user_key","efb16f202290e941ec34786d410bb3b2",22444
+46713,"cell","Striatum",22446
+46714,"disease","12 months vs 24 months",22446
+46715,"user_key","efb16f202290e941ec34786d410bb3b2",22446
+46716,"cell","Cerebellum",22447
+46717,"disease","4 weeks vs 12 weeks",22447
+46718,"user_key","efb16f202290e941ec34786d410bb3b2",22447
+46719,"cell","Visual cortex",22448
+46720,"disease","14 d vs 60 d",22448
+46721,"user_key","efb16f202290e941ec34786d410bb3b2",22448
+46722,"cell","Brain",22449
+46723,"disease","5 month vs 30 month",22449
+46724,"user_key","efb16f202290e941ec34786d410bb3b2",22449
+46725,"cell","Prefrontal cortex",22450
+46726,"disease","2 weeks vs 10 weeks",22450
+46727,"user_key","efb16f202290e941ec34786d410bb3b2",22450
